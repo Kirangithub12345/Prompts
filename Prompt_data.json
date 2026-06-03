@@ -29,7 +29,7 @@
     {
         "title":"Under Water",
         "image_url":"https://raw.githubusercontent.com/Kirangithub12345/Prompts/main/Photos/file_000000003764720b96ecfb3580ec2433.png",
-        "prompt":"",
+        "prompt":"Transform the input person into an underwater scene while preserving the same face, hairstyle, beard, clothing, and overall appearance. The person is fully submerged underwater, reaching toward the camera with one hand. Realistic water bubbles, rippling surface above, cinematic blue lighting, underwater caustics on skin and clothes, dramatic atmosphere, photorealistic, ultra detailed, high quality, movie scene, realistic facial expression, 8K, volumetric light rays, underwater photography.",
         "category": "Movie",
         "tags":["under water","sea","swimming","water","pool"],
         "id":3,
