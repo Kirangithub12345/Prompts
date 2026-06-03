@@ -25,5 +25,16 @@
         "tags": ["space", "astronaut", "galaxy", "stars", "exploration"],
         "id": 3,
         "likes": 150
+    },
+    {
+        "title":"Under Water",
+        "image_url":"https://raw.githubusercontent.com/Kirangithub12345/Prompts/main/Photos/file_000000003764720b96ecfb3580ec2433.png",
+        "prompt":"",
+        "category": "Movie",
+        "tags":["under water","sea","swimming","water","pool"],
+        "id":3,
+        "likes":250
+        
     }
+    
 ]
