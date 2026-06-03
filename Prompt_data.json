@@ -6,7 +6,7 @@
         "category": "Sci-Fi",
         "tags": ["cyberpunk", "cityscape", "neon", "futuristic", "night"],
         "id": 1,
-        "likes": 120,
+        "likes": 120
     },
     {
         "title": "Enchanted Forest",
@@ -15,7 +15,7 @@
         "category": "Fantasy",
         "tags": ["enchanted", "forest", "magical", "mystical", "nature"],
         "id": 2,
-        "likes": 95,
+        "likes": 95
     },
     {
         "title": "Space Exploration",
@@ -24,6 +24,6 @@
         "category": "Sci-Fi",
         "tags": ["space", "astronaut", "galaxy", "stars", "exploration"],
         "id": 3,
-        "likes": 150,
-    },
+        "likes": 150
+    }
 ]
